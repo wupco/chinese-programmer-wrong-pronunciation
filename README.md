@@ -55,6 +55,7 @@
 | phantom [🔊](http://dict.youdao.com/dictvoice?audio=phantom&type=2) | ✅ ['fæntəm] | ❌ ['pæntəm] |
 | parameter [🔊](http://dict.youdao.com/dictvoice?audio=parameter&type=1) | ✅ [pə'ræmɪtə] | ❌ ['pærəmɪtə] |
 | putty [🔊](http://dict.youdao.com/dictvoice?audio=putty&type=1) | ✅ [ˈpʌti] | ❌ [ˈpuːti] |
+| python [🔊](http://dict.youdao.com/dictvoice?audio=python&type=1) | ✅ ['paɪθɑn] | ❌ ['paɪθən] |
 | query [🔊](http://dict.youdao.com/dictvoice?audio=query&type=1) | ✅ ['kwɪəri] | ❌ ['kwaɪri] |
 | Qt [🔊](http://dict.youdao.com/dictvoice?audio=cute&type=1) | ✅ [kjuːt] | |
 | Realm [🔊](http://dict.youdao.com/dictvoice?audio=realm&type=1) | ✅ [relm] | ❌ [riəlm] |
